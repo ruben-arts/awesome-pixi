@@ -23,10 +23,10 @@ Where can you learn about Pixi?
   - [Anaconda](https://www.youtube.com/watch?v=sItH-WKxdBo) - Environment Management with Pixi
   - [ROS with Pixi playlist](https://www.youtube.com/watch?v=-ywpmxbb8_A&list=PLJ18jaEFbsWiCfrbczEoDTXqhpdsZJfjc) - Playlist containing short videos to manage ROS environments with Pixi.
 - Conference talks:
-  - [EuroPython 2025](https://www.youtube.com/watch?v=HOqv3kh4z_c) - Unlocking Hidden Power of Conda with Pixi — Ruben Arts, Julian Hofer
-  - [SciPy 2025](https://www.youtube.com/watch?v=UeyMkK5MzcA) - Reproducible Science Made Easy: Package Management with Pixi - Ruben Arts & Wolf Vollprecht
-  - [PyCon DE 2025](https://www.youtube.com/watch?v=ScxPMrIMahY) - Streamlining Python deployment with Pixi: A Perspective from production - Dennis Weyland
-  - [PyData Paris 2024](https://www.youtube.com/watch?v=O-up045PgXE) - Bridging the worlds: pixi reimplements pip and conda in Rust - Nichita Morcotilo
+  - [EuroPython 2025](https://www.youtube.com/watch?v=HOqv3kh4z_c) - Unlocking Hidden Power of Conda with Pixi — Arts & Hofer
+  - [SciPy 2025](https://www.youtube.com/watch?v=UeyMkK5MzcA) - Reproducible Science Made Easy: Package Management with Pixi - Arts & Vollprecht
+  - [PyCon DE 2025](https://www.youtube.com/watch?v=ScxPMrIMahY) - Streamlining Python deployment with Pixi: A Perspective from production - Weyland
+  - [PyData Paris 2024](https://www.youtube.com/watch?v=O-up045PgXE) - Bridging the worlds: pixi reimplements pip and conda in Rust - Morcotilo
 - Conference Workshops:
   - [SciPy 2025](https://www.youtube.com/watch?v=8AYp3MlRSNA) - Reproducible Machine Learning Workflows for Scientists with pixi - Arts, Feickert, & Kirkham
 
